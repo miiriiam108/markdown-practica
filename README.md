@@ -41,7 +41,12 @@ print(nombre)
 [GitHub](https://github.com)
 
 ## Página web favorita
-[![Stradivarius](stradivarius.png)](https://stradivarius.com)
+[![Stradivarius](imagenes/stradivarius.png)](https://stradivarius.com)
+
+## Nuevo documento
+
+[Ir al nuevo documento](doc2.md)
+
 
 
 
